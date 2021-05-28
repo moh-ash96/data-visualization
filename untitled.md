@@ -1,0 +1,1 @@
+weather_df[weather_df["Date"].str.split(pat = "/").str[0] == "1"]["Precipitation_In"].mean()
