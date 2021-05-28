@@ -1,14 +1,14 @@
 # Data Visualization
 
-short summary about the lab
+In this lab, I will talk about some arabian currencies changes over 10 years and visualize their data using matplotlib, and seaborn
 
 ## Getting Started
 
 To get started with the project:
 
-* Clone the repository =>  `git clone <repo-clone-link>`
+* Clone the repository =>  `git clone git@github.com:moh-ash96/data-visualization.git`
 
-* Cd into the folder =>  `cd linear-regression`
+* Cd into the folder =>  `cd data-visualization`
 
 * Run poetry install to setup dependencies =>  `poetry install`
 
@@ -20,10 +20,12 @@ To get started with the project:
 
 * First commit - basic project files
 
+* Second commit - has the vis-a notebook that has the information.
+
 ### TODO Checklist
 
 - [X] Find dataset
 
-- [ ] fulfil the lab needs
+- [X] fulfil the lab needs
 
-[Pull Request](https://github.com/moh-ash96/linear-regression/pull/1)
+[Pull Request](https://github.com/moh-ash96/data-visualization/pull/1)
